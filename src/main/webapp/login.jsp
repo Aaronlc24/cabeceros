@@ -103,7 +103,7 @@
     <h2>Iniciar sesión</h2>
 
     <form action="login" method="post">
-        <input type="text" name="usuario" placeholder="Usuario" required>
+        <input type="text" name="username" placeholder="Usuario" required>
         <input type="password" name="password" placeholder="Contraseña" required>
         <button type="submit">Ingresar</button>
     </form>
